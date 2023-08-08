@@ -26,19 +26,19 @@ header, .main {
     animation-duration: 20s;
     animation-iteration-count: infinite;
     animation-delay: 2s;
-    background-image: url(../images/jenny-2x.jpg);
+    background-image: url(images/jenny-2x.jpg);
     background-size: cover; /* Make the image cover the container */
     background-position: center center;
     background-repeat: no-repeat;
   }
   
   @keyframes play {
-    0% { background-image: url(../images/jenny-2x.jpg); }
-    20% { background-image: url(../images/colin-2x.jpg); }
-    40% { background-image: url(../images/jordan-2x.webp); }
-    60% { background-image: url(../images/scarlett-2x.jpg); } 
-    80% { background-image: url(../images/christina-2x.webp); }
-    100% { background-image: url(../images/jenny-2x.jpg); }
+    0% { background-image: url(images/jenny-2x.jpg); }
+    20% { background-image: url(images/colin-2x.jpg); }
+    40% { background-image: url(images/jordan-2x.webp); }
+    60% { background-image: url(images/scarlett-2x.jpg); } 
+    80% { background-image: url(images/christina-2x.webp); }
+    100% { background-image: url(images/jenny-2x.jpg); }
   }
   
   header {
